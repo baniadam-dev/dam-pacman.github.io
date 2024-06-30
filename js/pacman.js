@@ -190,39 +190,26 @@ var getGameDescription = (function(){
         [
             "ORIGINAL ARCADE:",
             "NAMCO (C) 1980",
+            "",
+            "BUILT BY ADAM DEV."
         ],
         [
-            "ORIGINAL ARCADE ADDON:",
-            "MIDWAY/GCC (C) 1981",
+            "ORIGINAL ARCADE:",
+            "NAMCO (C) 1980",
             "",
-            "REVERSE-ENGINEERING:",
-            "BART GRANTHAM",
-            "",
-            "REMAKE:",
-            "SHAUN WILLIAMS",
+            "BUILT BY ADAM DEV."
         ],
         [
-            "A NEW PAC-MAN GAME",
-            "WITH RANDOM MAZES:",
-            "SHAUN WILLIAMS (C) 2012",
+           "ORIGINAL ARCADE:",
+            "NAMCO (C) 1980",
             "",
-            "COOKIE MONSTER DESIGN:",
-            "JIM HENSON",
-            "",
-            "PAC-MAN CROSSOVER CONCEPT:",
-            "TANG YONGFA",
+            "BUILT BY ADAM DEV."
         ],
         [
-            "THE UNRELEASED",
-            "MS. PAC-MAN PROTOTYPE:",
-            "GCC (C) 1981",
+           "ORIGINAL ARCADE:",
+            "NAMCO (C) 1980",
             "",
-            "SPRITES REFERENCED FROM",
-            "STEVE GOLSON'S",
-            "CAX 2012 PRESENTATION",
-            "",
-            "REMAKE:",
-            "SHAUN WILLIAMS",
+            "BUILT BY ADAM DEV."
         ],
     ];
     
