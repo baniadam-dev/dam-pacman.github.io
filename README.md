@@ -1,1 +1,1 @@
-Pac-Man Game
+Permainan Pac-Man berbasis Web
